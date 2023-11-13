@@ -1,5 +1,8 @@
 # Card Game Simulation
-![image](https://github.com/Moez-0/Card-Game-Simulation/assets/86966266/9e7bc013-6223-4873-bc35-c45a3f50ee06)
+![image](https://github.com/Moez-0/Card-Game-Simulation/assets/86966266/05542d08-0560-4aea-a9e7-1382103b4ac0)
+![image](https://github.com/Moez-0/Card-Game-Simulation/assets/86966266/973a5f97-a425-4e9c-b842-f8103bf15d00)
+
+
 
 
 This Python code simulates several card games using Monte Carlo simulations. The code defines a set of card games and calculates the win probability and expected winnings per play for each game. 
